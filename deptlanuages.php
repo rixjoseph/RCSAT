@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Department of Commerce</title>
+    <title>Department of LANGUAGES</title>
 </head>
 <nav class="navbar navbar-expand-lg navbar-dark bg-success">
     <div class="container-fluid">
@@ -16,10 +16,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
+            <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="about.html">ABOUT US</a>
+            <a class="nav-link active" href="about.php">ABOUT US</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -28,30 +28,30 @@
             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
               <li><a class="dropdown-item" href="#">Moodle</a></li>
               <li><a class="dropdown-item" href="#">RCSAT Fedena</a></li>
-              <li><a class="dropdown-item" href="gallery.html">Campus Connect</a></li>
-              <li><a class="dropdown-item" href="gallery.html">Photo Gallery</a></li>
+              <li><a class="dropdown-item" href="gallery.php">Campus Connect</a></li>
+              <li><a class="dropdown-item" href="gallery.php">Photo Gallery</a></li>
               <li><a class="dropdown-item" href="#">E-Content</a></li>
-              <li><a class="dropdown-item" href="department.html">Academics</a></li>
+              <li><a class="dropdown-item" href="department.php">Academics</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="department.html">ACADEMICS</a>
+            <a class="nav-link active" href="department.php">ACADEMICS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="gallery.html">GALLERY</a>
+            <a class="nav-link active" href="gallery.php">GALLERY</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" href="contact.html">CONTACT US</a>
+            <a class="nav-link active" href="contact.php">CONTACT US</a>
           </li>
           
         </ul>
         <form class="d-flex">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" href="Signup.html">SIGN UP</a>
+                    <a class="nav-link active" href="Signup.php">SIGN UP</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link active" href="Signin.html">SIGN IN</a>
+                    <a class="nav-link active" href="Signin.php">SIGN IN</a>
                 </li>
             </ul>
         </form>
@@ -102,14 +102,9 @@
                 <li class="list-group-item list-group-item-primary">MILESTONES</li>
               </ul>
         </div>
-        <div class="col col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 col-xxl-8">
-            <br>
-        <h5 style="font-family: Georgia, 'Times New Roman', Times, serif;color: rgb(6, 75, 131);font-weight: 100;">DEPARTMENT OF COMMERCE</h5>
-        <p>Rajagiri College of Social Sciences – Department of Commerce & Professional Studies became functional from the academic year 2015-16. The department is dedicated to providing aspiring students with a wide range of professional and interpersonal skills in the field of finance, accounting, and business studies. Industry visits, field trips, and corporate talks give adequate practical exposure to the students about the subject. With an enduring dedication to the pursuit of excellence, DCPS offers unparalleled student experiences across a broad spectrum of academic environments. At Rajagiri, students not only imbibe academic concepts but also develop a wide spectrum of global business and smart decision-making skills. The value-based education at the denary of commerce will impel aspiring managers to emerge as innovative, creative, and competent leaders; leaders with a broad strategic vision embedded with social sensitivity. Rajagiri provides a balance of professional excellence and social consciousness that will help the new breed of professionals in their careers. The department is emerging as a centre par excellence in the field of knowledge imparting, value-based education, and setting up professional outlook among the students for their future endurance.
-
- 
-
-            Professional Studies, RCSS, Kalamassery, has the professed vision of imparting industrial relevant skills and knowledge among students leading to better career and employability opportunities at the Undergraduate level. Professional Studies along with the Department of Commerce has achieved many heights since its inception. RCSS is a pioneer in the State of Kerala offering accredited ACCA and CIMA program along with B.Com and BBA with the highest ACCA and CIMA paper exemption. Apart from core professional programs, the department also offers industry-relevant certification programs during the course of graduation. 
+        <div class="col col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8 col-xxl-8">  <br>
+        <h5 style="font-family: Georgia, 'Times New Roman', Times, serif;color: rgb(6, 75, 131);font-weight: 100;">DEPARTMENT OF LANGUAGES</h5>
+        <p>The Department of  Languages offers English, French, Hindi and Malayalam as Common Course I &II for the UG programmes and Add-on and Enrichment Programmes: Communicative English, S-CLAT, GRIT ad Certificate Progrmme in FIlm Making, across the UG and PG streams. Re-defining the pedagogy of English and Languages in the curriculum of higher education, the Department transverses the academic study of ‘language’ to foster an appreciation of literature, culture and humanity at large. The Department attempts to inculcate in students a critical awareness of the self and society to mould them into responsible and socially sensitive citizens
         </p>
         </div>
     </div>
